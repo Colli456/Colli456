@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Colli456/Colli456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome ✨ To my GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![banner](https://github.com/Colli456/Colli456/assets/72905402/a78ec7b8-9b02-439c-b798-bed987710a67)
+
+
+I’m currently student doing a certificate course at Raritan Valley Community College located in North Branch, New Jersey. I am currently living in Plainfield new jersey with my grandparents and aunty. I was originally born and raised in Jamaica but in 2020 I got the opportunity to move to the states and further my studies. I have always had a knack for building or creating different things.
+
+Hobbies:
+
+- 🎮 I like playing games
+- 💻 I often surf the web
+- 🛌 I like to relax
+
+- ⚡ Fun fact: I want to get into video editing
